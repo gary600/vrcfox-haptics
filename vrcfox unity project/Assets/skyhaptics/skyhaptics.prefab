@@ -175,6 +175,16 @@ PrefabInstance:
       propertyPath: parameter
       value: skyhap_R6
       objectReference: {fileID: 0}
+    - target: {fileID: 4213756641812321820, guid: 3401c0316c0489049a89d24c085e1e49,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1152
+      objectReference: {fileID: 0}
+    - target: {fileID: 4213756641812321820, guid: 3401c0316c0489049a89d24c085e1e49,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0896
+      objectReference: {fileID: 0}
     - target: {fileID: 4409017461482460695, guid: 3401c0316c0489049a89d24c085e1e49,
         type: 3}
       propertyPath: m_LocalPosition.x

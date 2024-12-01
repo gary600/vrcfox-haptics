@@ -46,8 +46,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rootTransform: {fileID: 0}
   shapeType: 1
-  radius: 0.00025
-  height: 0.0008
+  radius: 0.025
+  height: 0.08
   position: {x: 0, y: 0, z: 0}
   rotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
   collisionTags:
