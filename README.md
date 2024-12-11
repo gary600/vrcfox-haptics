@@ -1,3 +1,11 @@
+# vrcfox-haptics
+
+Trev3d's vrcfox ("Simple Fox") VRChat avatar, adapted for [my head haptics project](https://github.com/gary600/introxr-headhaptics).
+
+Trev3d's README follows:
+
+---
+
 # vrcfox
 a minimalistic furry avatar for vrchat
 

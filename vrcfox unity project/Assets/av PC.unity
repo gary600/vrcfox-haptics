@@ -176,6 +176,11 @@ PrefabInstance:
       propertyPath: blueprintId
       value: avtr_8c0a8c78-d6b3-4988-9580-3f8429307d99
       objectReference: {fileID: 0}
+    - target: {fileID: 4518591563733791310, guid: 4660207665e831c499dc076459e49c32,
+        type: 3}
+      propertyPath: fallbackStatus
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4518591563733791311, guid: 4660207665e831c499dc076459e49c32,
         type: 3}
       propertyPath: unityVersion
